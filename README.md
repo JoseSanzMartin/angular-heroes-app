@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # HeroesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular-heroes-app
 >>>>>>> f62551695311ed8200dc00c8b43602d410847137
+=======
+
+>>>>>>> e22ec3f6a5917f28b393c25702c6790fc567e13e
